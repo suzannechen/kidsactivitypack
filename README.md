@@ -10,4 +10,4 @@ Keeping children engaged is now essential as part of an Events Best Practice. At
 The Kids Activity pack debuts on the 29 Jul 2020 at the inaugural Microsoft Create: Frontend, a half-day virtual session where developers from the community come together to have conversations on pressing topics for frontend developers, such as building inclusive and accessible web applications, static sites, serverless, and much more.
 
 No printer? We've got you covered digitally too. :)
-As part of the event themed Static Web Applications, we have also created a digital version with static web apps https://lemon-forest-0f7a5171e.azurestaticapps.net/
+As part of the event themed Static Web Applications, we have also created a digital version with static web apps https://aka.ms/mscreate-kapdigital
